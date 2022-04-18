@@ -17,4 +17,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 
---cur.execute("SELECT sum(c12) FROM tbl1;").fetchall()
+SELECT sum(c12) FROM tbl1
